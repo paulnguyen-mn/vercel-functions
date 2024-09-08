@@ -1,0 +1,19 @@
+{
+  "redirects": [
+    {
+      "source": "/reactjs",
+      "destination": "https://bit.ly/easy-react",
+      "permanent": true
+    },
+    {
+      "source": "/javascript",
+      "destination": "https://bit.ly/easy-javascript",
+      "permanent": true
+    },
+    {
+      "source": "/nextjs",
+      "destination": "https://bit.ly/3z6Gcpp",
+      "permanent": true
+    }
+  ]
+}

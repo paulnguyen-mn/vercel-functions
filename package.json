@@ -1,0 +1,13 @@
+{
+  "name": "easy-functions",
+  "version": "1.0.0",
+  "description": "fake APIs using Vercel Functions",
+  "author": "Paul Nguyen",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "casual": "^1.6.2",
+    "jsonwebtoken": "^9.0.2",
+    "query-string": "^9.1.0"
+  }
+}
