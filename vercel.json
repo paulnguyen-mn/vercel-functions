@@ -1,7 +1,4 @@
 {
-  "env": {
-    "CURRENT_MONTH": "${NOW:MM}"
-  },
   "redirects": [
     {
       "source": "/reactjs",
@@ -10,7 +7,7 @@
     },
     {
       "source": "/javascript",
-      "destination": "https://www.udemy.com/course/javascript-cho-nguoi-moi-bat-dau-2021?couponCode=EZ24${CURRENT_MONTH}",
+      "destination": "https://www.udemy.com/course/javascript-cho-nguoi-moi-bat-dau-2021?couponCode=EZ2409",
       "permanent": true
     },
     {
