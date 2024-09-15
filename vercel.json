@@ -1,4 +1,7 @@
 {
+  "env": {
+    "CURRENT_MONTH": "${NOW:MM}"
+  },
   "redirects": [
     {
       "source": "/reactjs",
