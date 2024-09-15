@@ -7,7 +7,7 @@
     },
     {
       "source": "/javascript",
-      "destination": "https://www.udemy.com/course/javascript-cho-nguoi-moi-bat-dau-2021?couponCode=EZ$24{CURRENT_MONTH}",
+      "destination": "https://www.udemy.com/course/javascript-cho-nguoi-moi-bat-dau-2021?couponCode=EZ24${CURRENT_MONTH}",
       "permanent": true
     },
     {
